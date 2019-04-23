@@ -1,0 +1,18 @@
+{
+  "name": "request-exaple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "stock": "./app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "yargs": "^13.2.2"
+  }
+}
